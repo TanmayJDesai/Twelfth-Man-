@@ -57,7 +57,7 @@ The webpage should now be open in your default browser
 ## Project Contributors
 
 The project has been created by Arnav Marda, Angad Kapoor, Anirudh Rao, Ezequiel Hererra and Tanmay Desai. The logo for the website was created by our dear friend Tahaa Mithiborwala (not in this class).
-
+.
 ## Copyright
 
 Copyright 2022 Twelfth Man. All rights reserved.
